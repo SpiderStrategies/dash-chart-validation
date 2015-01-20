@@ -1,0 +1,24 @@
+{
+  "name": "dash-chart-validation",
+  "version": "1.0.0",
+  "description": "Validates a JSON document against the dash chart format",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SpiderStrategies/dash-chart-validation.git"
+  },
+  "keywords": [
+    "dash",
+    "json",
+    "validation"
+  ],
+  "author": "Nathan Bowser <nathan@spiderstrategies.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpiderStrategies/dash-chart-validation/issues"
+  },
+  "homepage": "https://github.com/SpiderStrategies/dash-chart-validation",
+  "dependencies": {
+    "revalidator": "^0.3.1"
+  }
+}
