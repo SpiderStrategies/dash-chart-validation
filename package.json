@@ -1,6 +1,6 @@
 {
   "name": "dash-chart-validation",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Validates a JSON document against the dash chart format",
   "main": "index.js",
   "repository": {
