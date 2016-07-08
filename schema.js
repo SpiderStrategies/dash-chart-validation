@@ -51,6 +51,7 @@ module.exports = {
           type: 'array',
           required: true,
           minItems: 1,
+          maxItems: 14,
           items: {
             description: 'Each datasequence',
             additionalProperties: false,
